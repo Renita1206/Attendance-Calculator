@@ -54,5 +54,5 @@ if(sub=="DBMS" or sub=="MI" or sub=="SE" or sub=="DA" or sub=="GTA"):
 else:
     print("Invalid subject")
     exit(0)
-print("Current Attendance Percentage: ", (attended/sessions)*100)
+print("Current Attendance Percentage: ", round((attended/sessions)*100))
 print("You can bunk",x,"classes")
