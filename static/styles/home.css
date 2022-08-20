@@ -1,0 +1,31 @@
+.Heading{
+    text-align: center;
+    font-family: cursive;
+    color: #B2A4FF;
+}
+
+.sub-heading{
+    color: #AFB4FF;
+}
+
+.form-group1{
+    display: flex;
+}
+.radio1{
+    flex: left;
+    text-align: center;
+}
+
+.radio{
+    flex: right;
+    text-align: center;
+}
+
+.btn{
+    align-content: center;
+    border: none;
+}
+
+.result{
+ color: #C2A4FF;   
+}
